@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">NYC Educational Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nycWelcome">Welcome</string>
+    <string name="nycLibraries">NYC Libraries</string>
+    <string name="nycTech">Tech in the City</string>
+    <string name="nycU">NYC U</string>
+
+    <!-- NYC Home -->
+    <string name="nycTitle">NYC: An Educational Tour</string>
+    <string name="nycOldestPrivateCollege">Columbia U. Est 1754</string>
+    <string name="nycOldestPublicCollege">City College. Est 1847</string>
+    <string name="nycStemFuture">Tech Hub</string>
+
+    <!-- NYC Libraries -->
+    <string name="nypl">New York Public Library</string>
+    <string name="nyplCentral">NYPL Central Library</string>
+    <string name="bklynpl">Brooklyn Public Library</string>
+    <string name="bklynplCentral">BklynPL Central Library</string>
+
+    <!-- NYC Tech -->
+    <string name="nycCodeBar">Code Bar NYC</string>
+    <string name="nycPursuit">Pursuit</string>
+    <string name="nycWHC">Women Who Code NYC</string>
+
+    <!-- NYC U -->
+    <string name="columbiaU">Columbia University</string>
+    <string name="cityC">City College</string>
+    <string name="hunterC">Hunter College</string>
+    <string name="baruchC">Baruch College</string>
+    <string name="nyu">NYU</string>
+
+</resources>
